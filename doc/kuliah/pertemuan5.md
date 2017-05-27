@@ -85,17 +85,17 @@ Pengelolaan Bahasa Alami adalah suatu proses pembuatan model komputasi sehingga 
 ## Saran
 Memahami materi lebih maksimal lagi. <br>
 
-Nama : Tentri May Simbolon
-NPM : 1144027
-Kelas : D4 Teknik Informatika 3C
+Nama : Tentri May Simbolon<br>
+NPM : 1144027<br>
+Kelas : D4 Teknik Informatika 3C<br>
 Kampus : Politeknik Pos Indonesia
 
 Link Matkuliah : Kecerdasan Buatan
 
-Link Plagiarisme :
-Duplichecker :
-https://drive.google.com/open?id=0B7tQon2iaQFdRVF3YWMweXMtOFk
-Searchenginereports : 
+Link Plagiarisme :<br>
+Duplichecker :<br>
+https://drive.google.com/open?id=0B7tQon2iaQFdRVF3YWMweXMtOFk<br>
+Searchenginereports : <br>
 https://drive.google.com/open?id=0B7tQon2iaQFdaXpjWUp6Tkt5UEU 
 
  
